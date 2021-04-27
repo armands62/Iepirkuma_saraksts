@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(74, 147, 150);
+  background-color: rgb(136, 189, 190);
   font-family: "Titillium Web";
 }
 h1 {
@@ -29,7 +29,7 @@ h2 {
   height: 50px;
   border-radius: 10px;
   color: rgb(0, 0, 0);
-  border-color: rgb(66, 107, 97);
+  border-color: rgb(252, 252, 252);
   background-color: rgb(255, 255, 255);
 }
 
@@ -40,7 +40,7 @@ h2 {
 }
 
 #form {
-  background-color: rgb(9, 86, 88);
+  background-color: rgb(139, 212, 212);
   display: block;
   height: 200px;
   width: 400px;
@@ -90,7 +90,7 @@ input#Daudzums {
   width: 100%;
   padding: 5px;
   margin-top: 10px;
-  background-color: rgb(67, 170, 170);
+  background-color: rgb(139, 212, 212);
 }
 @keyframes slidein {
   from {
@@ -105,9 +105,9 @@ input#Daudzums {
 }
 @keyframes pulse {
   0% {
-    background-color: rgb(74, 147, 150);
+    background-color: rgb(136, 189, 190);
   }
   100% {
-    background-color: rgb(9, 86, 88);
+    background-color: rgb(139, 212, 212);
   }
 }
